@@ -1,0 +1,46 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+.display-4 {
+  font-size: 25pt;
+}
+
+.col-4 {
+  font-size: medium;
+}
+
+#project {
+  background-color: #e2edff;
+}
+
+footer {
+  background-color: #006cff;
+  color: #ffff;
+  text-align: center;
+  padding-bottom: 8px;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 1000px;
+  align-items: center;
+}
+
+td,
+tr {
+  border: 1px solid #000;
+  text-align: left;
+  padding: 8px;
+  width: 200px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
